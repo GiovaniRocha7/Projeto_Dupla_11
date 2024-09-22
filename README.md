@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 Giovanna Miranda e Giovani Rocha<br>🎯 O objeto do projeto é desenvolver um projeto sobre cadeira gamers, e sua evolução ao longo dos anos, utilizando apenas HTML.<br>📖 Principais temas abordados :<br>-Definição e Importância dos Sistemas;<br>-Tipos de Sistemas Operacionais;<br>-Comparações entre Sistemas Operacionais.</p>
+<p align="left">👩🏻‍💻 Giovanna Miranda e Giovani Rocha<br>🎯 O objetivo do projeto é desenvolver um site sobre cadeiras gamer, e sua evolução ao longo dos anos, utilizando apenas HTML.<br>📖 Principais temas abordados :<br>-Definição e Importância dos Sistemas;<br>-Tipos de Sistemas Operacionais;<br>-Comparações entre Sistemas Operacionais.</p>
 
 ###
 
