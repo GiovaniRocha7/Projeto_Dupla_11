@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 Giovanna Miranda e Giovani Rocha<br>🎯 O objetivo do projeto é desenvolver um site sobre cadeiras gamer, e sua evolução ao longo dos anos, utilizando apenas HTML.<br>📖 Principais temas abordados :<br>História,<br> Evolução;<br>Tipos e Diferença os Modelos;<br>Marcas.</p>
+<p align="left">👩🏻‍💻 Giovanna Miranda e Giovani Rocha<br>🎯 O objetivo do projeto é desenvolver um site sobre cadeiras gamer, e sua evolução ao longo dos anos, utilizando apenas HTML.<br>📖 Principais temas abordados :<br>História,<br> Evolução ao longo dos anos;<br>Tipos e Diferença dos Modelos das cadeiras;<br>Marcas.</p>
 
 ###
 
