@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Sobre nós</h2>
+<h2 align="left">Sobre nós:</h2>
 
 ###
 
