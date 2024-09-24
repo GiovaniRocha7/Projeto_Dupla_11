@@ -27,5 +27,4 @@
 ###
 
 <div align="center">
-  <img height="200" src="sysops (4).png"  />
 </div>
