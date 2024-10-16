@@ -101,6 +101,7 @@ button:hover {
 }
 
 footer {
+    background: linear-gradient(to bottom, #ffffff37, #ddd5d5,#3e015b); 
     margin-top: 40px;
     text-align: center;
 }
